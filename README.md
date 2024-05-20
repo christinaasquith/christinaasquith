@@ -1,5 +1,5 @@
-### Hi there 👋
-<a href="https://www.learnenough.com/certificates/bc574bb1"><img src="https://www.learnenough.com/certificates/bc574bb1/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a>
+
+<a href="https://www.learnenough.com/certificates/bc574bb1">![Certificate of Completion for Learn Enough Command Line](https://cloud-isf8c28ja-hack-club-bot.vercel.app/0command-line-tutorial.svg)</a>
 
 <!--
 
